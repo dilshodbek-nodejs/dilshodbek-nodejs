@@ -26,11 +26,18 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+
+
+<h3>Languages and Tools:</h3>
 <p>
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" style="margin: 10px;" width="70" height="70"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" style="margin: 10px;" width="70" height="70"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" style="margin: 10px;" width="70" height="70"/>
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="70" height="70"/>  
+&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="70"/>  
+&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="70"/>
 </p>
+
+
 <p align="left" style="display: flex; flex-direction: column; gap: 10px;"> <!-- Column direction for the main wrapper -->
     <div style="display: flex; justify-content: center; align-item: center; gap: 10px;"> <!-- Centering and wrapping for the first 10 images -->
         <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
