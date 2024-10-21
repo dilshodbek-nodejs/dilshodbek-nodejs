@@ -30,7 +30,7 @@
 <p align="left" style="display: flex; flex-direction: column; gap: 10px;"> <!-- Column direction for the main wrapper -->
     <div style="display: flex; justify-content: center; align-item: center; gap: 10px;"> <!-- Centering and wrapping for the first 10 images -->
         <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <!-- Changed width and height -->
+            <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" margin="50px";width="40" height="40"/> <!-- Changed width and height -->
         </a>
         <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> <!-- Changed width and height -->
