@@ -10,13 +10,11 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/dilshodbek-yoqubjonov/dilshodbek-yoqubjonov.git">Click here</a>
 
-- 📝 I regularly write articles on <a href="https://t.me/sariq_javascript">Blog</a>)
+- 📝 I regularly write articles on <a href="https://t.me/sariq_javascript">Telegram Blog</a>
 
 - 💬 Ask me about **Node.js, javaScript, TypeScript, Nest.js**
 
 - 📫 How to reach me **yoqubjonovd2@gmail.com**
-
-- 📄 Know about my experiences [coming soon](coming soon)
 
 - ⚡ Fun fact **Backend developers are like ninjas: you never see them, but without them, everything would fall apart! 🥷💻**
 
