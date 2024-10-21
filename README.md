@@ -84,7 +84,7 @@
 
 
 
-<p><img align="left" width="900px" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilshodbek-yoqubjonov&show_icons=true&locale=en&layout=compact" alt="dilshodbek-yoqubjonov" /></p>
+<p><img align="left" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilshodbek-yoqubjonov&show_icons=true&locale=en&layout=compact" alt="dilshodbek-yoqubjonov" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dilshodbek-yoqubjonov&show_icons=true&locale=en" alt="dilshodbek-yoqubjonov" /></p>
 
