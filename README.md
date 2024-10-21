@@ -1,4 +1,4 @@
- <img src="https://media.licdn.com/dms/image/v2/D4E16AQGikGqTE7aDpA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729098643803?e=1735171200&v=beta&t=i2FgVuesZ3OHS7_WyvAIOmuJIcM42c3OjVD6JDdIkow" alt="Profile Background Image" style=" height: 280px; width: 100vh+120px;"/>
+ <img src="https://media.licdn.com/dms/image/v2/D4E16AQGikGqTE7aDpA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729098643803?e=1735171200&v=beta&t=i2FgVuesZ3OHS7_WyvAIOmuJIcM42c3OjVD6JDdIkow" alt="Profile Background Image" style=" height: 250px; width: 100vh+120px;"/>
 <h1 align="center">Hi 👋, I'm Dilshodbek</h1>
 <h3 align="center">Node.js backend developer from Uzbekistan, focused on building efficient server-side applications and APIs. Always ready to learn and improve.</h3>
 
@@ -28,7 +28,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left" style="display: flex; flex-direction: column; gap: 10px;"> <!-- Column direction for the main wrapper -->
-    <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;"> <!-- Centering and wrapping for the first 10 images -->
+    <div style="display: flex; justify-content: center; align-item: center; gap: 10px;"> <!-- Centering and wrapping for the first 10 images -->
         <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
             <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <!-- Changed width and height -->
         </a>
