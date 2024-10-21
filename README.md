@@ -29,9 +29,8 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <h3 align="left">Languages and Tools:</h3>
-
 <p align="left">
-    <div align="center">
+    <div align="center"; margin="10px">
         <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
             <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="55" height="55"/>
         </a>
@@ -57,9 +56,6 @@
             <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/>
         </a>
     </div>
-<>
-    <br/>
-<>
     <div align="center">
         <a href="https://graphql.org" target="_blank" rel="noreferrer">
             <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="55" height="55"/>
@@ -86,9 +82,7 @@
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/497px-NestJS.svg.png" alt="nestjs" width="55" height="55"/>
         </a>
     </div>
-
     <br/>
-<>
     <div align="center">
         <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="55" height="55"/>
