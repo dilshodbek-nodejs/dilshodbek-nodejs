@@ -80,12 +80,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="70" height="70"/>  
 </p>
 
-
-
-
-
-<p><img align="left" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilshodbek-yoqubjonov&show_icons=true&locale=en&layout=compact" alt="dilshodbek-yoqubjonov" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilshodbek-yoqubjonov&show_icons=true&locale=en&layout=compact" alt="dilshodbek-yoqubjonov" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dilshodbek-yoqubjonov&show_icons=true&locale=en" alt="dilshodbek-yoqubjonov" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilshodbek-yoqubjonov&" alt="dilshodbek-yoqubjonov" /></p>
+
