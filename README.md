@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"> 
 - 🔭 I’m currently working on <a href="https://github.com/dilshodbek-yoqubjonov/grammy-bot.git">authenticate using Telegram</a>
 
-- 🌱 I’m currently learning **nest.js docker, kubernetes**
+- 🌱 I’m currently learning **nest.js and DevOps**
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/dilshodbek-yoqubjonov/dilshodbek-yoqubjonov.git">Click here</a>
 
