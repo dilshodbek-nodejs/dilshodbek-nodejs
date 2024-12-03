@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilshodbek-yoqubjonov&label=Profile%20views&color=0e75b6&style=flat" alt="dilshodbek-yoqubjonov" /> </p>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"> 
-- 🔭 I’m currently working on <a href="https://github.com/dilshodbek-yoqubjonov/grammy-bot.git">rent-car</a>
+- 🔭 I’m currently working on <a href="https://github.com/dilshodbek-yoqubjonov/grammy-bot.git">authenticate using Telegram</a>
 
 - 🌱 I’m currently learning **nest.js docker, kubernetes**
 
