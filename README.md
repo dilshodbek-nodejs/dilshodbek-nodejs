@@ -81,6 +81,7 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilshodbek-yoqubjonov&show_icons=true&locale=en&layout=compact" alt="dilshodbek-yoqubjonov" /></p>
-<p><img align="center" src="https://streak-stats.demolab.com/?user=dilshodbek-yoqubjonov&" alt="dilshodbek-yoqubjonov" /></p>
+<!-- <p><img align="center" src="https://streak-stats.demolab.com/?user=dilshodbek-yoqubjonov&" alt="dilshodbek-yoqubjonov" /></p> -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dilshodbek-yoqubjonov)](https://git.io/streak-stats)
 
 
