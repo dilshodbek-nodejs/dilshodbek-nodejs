@@ -80,8 +80,25 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="70" height="70"/>  
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilshodbek-yoqubjonov&show_icons=true&locale=en&layout=compact" alt="dilshodbek-yoqubjonov" /></p>
-<!-- <p><img align="center" src="https://streak-stats.demolab.com/?user=dilshodbek-yoqubjonov&" alt="dilshodbek-yoqubjonov" /></p> -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=dilshodbek-yoqubjonov)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dilshodbek-yoqubjonov&theme=github-compact" alt="Dadmehr's Activity Graph"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=dilshodbek-yoqubjonov&theme=dark&show_icons=true" alt="Dadmehr's GitHub Stats"/>
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilshodbek-yoqubjonov&layout=compact&langs_count=8&card_width=320&theme=dark" alt="Dadmehr's Top Languages"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=dilshodbek-yoqubjonov&column=6&theme=gruvbox&no-frame=true&rank=AAA,AA,S,SS,SSS,SECRET" alt="🏆 Github Profile Trophy"/>
+  </a>
+</p>
 
 
