@@ -19,12 +19,9 @@
 - ⚡ Fun fact **Backend developers are like ninjas: you never see them, but without them, everything would fall apart! 🥷💻**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/dilshodbek-yoqubjonov-177b64210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dilshodbek-yoqubjonov-177b64210/" height="40" width="50" /></a>
-<a href="https://instagram.com/https://www.instagram.com/dilshodbek_dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/dilshodbek_dev/" height="40" width="50" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/dilshodbek_id/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/dilshodbek_id/" height="40" width="50"/></a>
- <a href="https://t.me/modemboy2" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="t.me/modemboy2" height="40" width="50" /></a>
-</p>
+[![Telegram](https://img.shields.io/badge/-Telegram-082032?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/modemboy2)
+[![Instagram](https://img.shields.io/badge/-Instagram-082032?style=for-the-badge&logo=Instagram&logoColor=#E4405F)](https://www.instagram.com/dilshodbek_dev/)
+ [![LinkedIn](https://img.shields.io/badge/-LinkedIn-082032?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/dilshodbek-yoqubjonov-177b64210/) 
 
 
 
