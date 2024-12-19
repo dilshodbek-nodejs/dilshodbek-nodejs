@@ -101,5 +101,5 @@
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dilshodbek-yoqubjonov" alt="🏆 Github Profile Trophy"/>
   </a>
 </p>
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dilshodbek_dev)](https://github.com/anuraghazra/github-readme-stats)
 
