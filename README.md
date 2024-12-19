@@ -23,7 +23,10 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-082032?style=for-the-badge&logo=Instagram&logoColor=#E4405F)](https://www.instagram.com/dilshodbek_dev/)
  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-082032?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/dilshodbek-yoqubjonov-177b64210/) 
 
-
+[![Telegram](https://img.shields.io/badge/-Telegram-082032?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/Berdiqulov_0321)
+[![Facebook](https://img.shields.io/badge/-Facebook-082032?style=for-the-badge&logo=Facebook&logoColor=#1877F2)](https://www.facebook.com/profile.php?id=100092183414994&mibextid=ZbWKwL)
+[![Instagram](https://img.shields.io/badge/-Instagram-082032?style=for-the-badge&logo=Instagram&logoColor=#E4405F)](https://www.instagram.com/berdiqulov0321/)
+ [![LinkedIn](https://img.shields.io/badge/-LinkedIn-082032?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/abdulaziz-berdiqulov-3743a6274) 
 
 
 <h3 align="left">Languages and Tools:</h3>
