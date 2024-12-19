@@ -84,7 +84,7 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=dilshodbek-yoqubjonov&theme=dark&show_icons=true" alt="Dadmehr's GitHub Stats"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=dilshodbek-yoqubjonov&theme=buefy&show_icons=true" alt="Dadmehr's GitHub Stats"/>
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilshodbek-yoqubjonov&layout=compact&langs_count=8&card_width=320&theme=dark" alt="Dadmehr's Top Languages"/>
