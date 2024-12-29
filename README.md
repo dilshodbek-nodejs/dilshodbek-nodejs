@@ -96,6 +96,12 @@
     <img src="https://github-profile-trophy.vercel.app/?username=dilshodbek-yoqubjonov&column=6&theme=buefy&no-frame=true&rank=AAA,AA,S,SS,SSS,SECRET" alt="🏆 Github Profile Trophy"/>
   </a>
 </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilshodbek-yoqubjonov&theme=tokyonight" alt="mystreak"/>
+  </a>
+</p>
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dilshodbek_dev)](https://github.com/anuraghazra/github-readme-stats)
+
 
