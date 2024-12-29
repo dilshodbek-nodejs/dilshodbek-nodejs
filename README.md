@@ -85,7 +85,7 @@
 
 ---
 
-### 📊 Statistikalar
+### 📊 Stats
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -98,7 +98,7 @@
 
 ---
 
-### 🏆 Mukofotlar
+### 🏆 Awards
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -108,7 +108,7 @@
 
 ---
 
-### 🔥 Faollik Qatorlari
+### 🔥 Longest streak stats
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -118,7 +118,7 @@
 
 ---
 
-### ⏱️ WakaTime Statistikalari
+### ⏱️ WakaTime stats
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
