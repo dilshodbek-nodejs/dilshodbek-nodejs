@@ -75,37 +75,53 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="70" height="70"/>  
 </p>
+# 🌟 GitHub Profili
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dilshodbek-yoqubjonov&theme=github-compact" alt="Dadmehr's Activity Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dilshodbek-yoqubjonov&theme=github-compact" alt="Dilshodbek's Activity Graph"/>
   </a>
 </p>
 
+---
+
+### 📊 Statistikalar
+
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=dilshodbek-yoqubjonov&theme=buefy&show_icons=true" alt="Dadmehr's GitHub Stats"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=dilshodbek-yoqubjonov&theme=buefy&show_icons=true" alt="Dilshodbek's GitHub Stats"/>
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilshodbek-yoqubjonov&layout=compact&langs_count=8&card_width=320&theme=buefy" alt="Dadmehr's Top Languages"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilshodbek-yoqubjonov&layout=compact&langs_count=8&card_width=320&theme=buefy" alt="Dilshodbek's Top Languages"/>
   </a>
 </p>
+
+---
+
+### 🏆 Mukofotlar
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=dilshodbek-yoqubjonov&column=6&theme=buefy&no-frame=true&rank=AAA,AA,S,SS,SSS,SECRET" alt="🏆 Github Profile Trophy"/>
   </a>
 </p>
-<p align="right">
+
+---
+
+### 🔥 Faollik Qatorlari
+
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilshodbek-yoqubjonov&theme=tokyonight" alt="mystreak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilshodbek-yoqubjonov&theme=tokyonight" alt="Dilshodbek's Streak Stats"/>
   </a>
 </p>
-<p align="left">
+
+---
+
+### ⏱️ WakaTime Statistikalari
+
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dilshodbek_dev" alt="mystreak"/>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dilshodbek_dev" alt="Dilshodbek's WakaTime Stats"/>
   </a>
 </p>
-
-
-
