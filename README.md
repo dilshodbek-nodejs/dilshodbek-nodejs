@@ -112,7 +112,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilshodbek-yoqubjonov&theme=tokyonight" alt="Dilshodbek's Streak Stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilshodbek-yoqubjonov&theme=black" alt="Dilshodbek's Streak Stats"/>
   </a>
 </p>
 
