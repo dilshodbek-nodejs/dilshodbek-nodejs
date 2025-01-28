@@ -112,9 +112,11 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilshodbek-yoqubjonov&theme=black" alt="Dilshodbek's Streak Stats"/>
+   [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
   </a>
 </p>
+
+
 
 ---
 
