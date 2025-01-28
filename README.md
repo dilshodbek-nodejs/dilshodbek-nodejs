@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilshodbek-yoqubjonov&label=Profile%20views&color=0e75b6&style=flat" alt="dilshodbek-yoqubjonov" /> </p>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"> 
-- 🔭 I’m currently working on <b>FARG‘ONA VODIYSI MAGISTRAL KANALLARIDAN FOYDALANISH BOSHQARMASI</b> (FVMKFB) loyihasi suv resurslarini boshqarish, monitoring qilish va foydalanishni optimallashtirish. Private repository 
+- 🔭 I’m currently working on <b>LinCor platform</b>
 
 - 🌱 I’m currently learning **nest.js and DevOps**
 
