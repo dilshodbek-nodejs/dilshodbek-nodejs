@@ -110,9 +110,10 @@
 
 ### 🔥 Longest streak stats
 <p align="center">
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=dilshodbek-yoqubjonov)]
+  <a href="https://github.com/dilshodbek-yoqubjonov">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=dilshodbek-yoqubjonov" alt="Dilshodbek's Streak Stats"/>
+  </a>
 </p>
-
 
 ---
 
