@@ -111,9 +111,7 @@
 ### 🔥 Longest streak stats
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-   [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
-  </a>
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=dilshodbek-yoqubjonov)](https://git.io/streak-stats)
 </p>
 
 
