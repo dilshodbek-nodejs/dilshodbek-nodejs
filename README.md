@@ -110,14 +110,7 @@
 
 ### 🔥 Longest streak stats
 
-<p align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=dilshodbek-yoqubjonov)](https://git.io/streak-stats)
-</p>
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=dilshodbek-yoqubjonov" alt="Dilshodbek's Streak Stats"/>
-  </a>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 
 
