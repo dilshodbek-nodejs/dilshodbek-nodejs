@@ -109,9 +109,9 @@
 ---
 
 ### 🔥 Longest streak stats
-
+<p align="center">
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=dilshodbek-yoqubjonov)]
-
+</p>
 
 
 ---
