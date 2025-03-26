@@ -1,4 +1,4 @@
- <img src="https://media.licdn.com/dms/image/v2/D4E16AQGikGqTE7aDpA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729098643803?e=1740614400&v=beta&t=DmyIxOm3CBBLs9OqN_QpZdMtcqL5U54mTDUZU0rCx34" alt="Profile Background Image" style=" height: 220px; width: 100vh+220px;"/>
+ <img src="https://media.licdn.com/dms/image/v2/D4E16AQGikGqTE7aDpA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729098643803?e=1748476800&v=beta&t=7UdM-hFPdpSOpnQtXB9AYycr_f3achHodPj8DDxtfN8" alt="Profile Background Image" style=" height: 220px; width: 100vh+220px;"/>
 <h1 align="center">Hi 👋, I'm Dilshodbek</h1>
 <h3 align="center">Node.js backend developer from Uzbekistan, focused on building efficient server-side applications and APIs. Always ready to learn and improve.</h3>
 
