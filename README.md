@@ -2,13 +2,13 @@
 <h1 align="center">Hi 👋, I'm Dilshodbek</h1>
 <h3 align="center">Node.js backend developer from Uzbekistan, focused on building efficient server-side applications and APIs. Always ready to learn and improve.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dilshodbek-yoqubjonov&label=Profile%20views&color=0e75b6&style=flat" alt="dilshodbek-yoqubjonov" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dilshodbek-nodejs&label=Profile%20views&color=0e75b6&style=flat" alt="dilshodbek-nodejs" /> </p>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"> 
 - 🔭 I’m currently working on <b>LinCor platform</b>
 
 - 🌱 I’m currently learning **nest.js and DevOps**
 
-- 👨‍💻 All of my projects are available at <a href="https://github.com/dilshodbek-yoqubjonov/dilshodbek-yoqubjonov.git">Click here</a>
+- 👨‍💻 All of my projects are available at <a href="https://github.com/dilshodbek-nodejs/dilshodbek-nodejs.git">Click here</a>
 
 - 📝 I regularly write articles on <a href="https://t.me/sariq_javascript">Telegram Blog</a>
 
@@ -22,7 +22,7 @@
 
 [![Telegram](https://img.shields.io/badge/-Telegram-082032?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/modemboy2)
 [![Instagram](https://img.shields.io/badge/-Instagram-082032?style=for-the-badge&logo=Instagram&logoColor=#E4405F)](https://www.instagram.com/dilshodbek_dev/)
- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-082032?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/dilshodbek-yoqubjonov-177b64210/) 
+ [![LinkedIn](https://img.shields.io/badge/-LinkedIn-082032?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/dilshodbek-nodejs-177b64210/) 
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -79,7 +79,7 @@
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dilshodbek-yoqubjonov&theme=github-compact" alt="Dilshodbek's Activity Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dilshodbek-nodejs&theme=github-compact" alt="Dilshodbek's Activity Graph"/>
   </a>
 </p>
 
@@ -89,10 +89,10 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=dilshodbek-yoqubjonov&theme=buefy&show_icons=true" alt="Dilshodbek's GitHub Stats"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=dilshodbek-nodejs&theme=buefy&show_icons=true" alt="Dilshodbek's GitHub Stats"/>
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilshodbek-yoqubjonov&layout=compact&langs_count=8&card_width=320&theme=buefy" alt="Dilshodbek's Top Languages"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilshodbek-nodejs&layout=compact&langs_count=8&card_width=320&theme=buefy" alt="Dilshodbek's Top Languages"/>
   </a>
 </p>
 
@@ -102,7 +102,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dilshodbek-yoqubjonov&column=6&theme=buefy&no-frame=true&rank=AAA,AA,S,SS,SSS,SECRET" alt="🏆 Github Profile Trophy"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=dilshodbek-nodejs&column=6&theme=buefy&no-frame=true&rank=AAA,AA,S,SS,SSS,SECRET" alt="🏆 Github Profile Trophy"/>
   </a>
 </p>
 
@@ -110,8 +110,8 @@
 
 ### 🔥 Longest streak stats
 <p align="center">
-  <a href="https://github.com/dilshodbek-yoqubjonov">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=dilshodbek-yoqubjonov" alt="Dilshodbek's Streak Stats"/>
+  <a href="https://github.com/dilshodbek-nodejs">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=dilshodbek-nodejs" alt="Dilshodbek's Streak Stats"/>
   </a>
 </p>
 
