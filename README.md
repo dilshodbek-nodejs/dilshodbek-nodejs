@@ -75,7 +75,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="70" height="70"/>  
 </p>
-# 🌟 GitHub Profili
+# 🌟 GitHub Profili (CURRENTLY WORKING ON GITLAB ❗)
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
