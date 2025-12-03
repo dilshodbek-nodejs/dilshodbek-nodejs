@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/dilshodbek-nodejs/dilshodbek-nodejs.git">Click here</a>
 
-- 📝 I regularly write articles on <a href="https://t.me/sariq_javascript">Telegram Blog</a>
+- 📝 I regularly write articles on <a href="https://t.me/javascript_v1">Telegram Blog</a>
 
 - 💬 Ask me about **Node.js, javaScript, TypeScript, Nest.js**
 
