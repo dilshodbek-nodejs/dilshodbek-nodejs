@@ -12,9 +12,9 @@
 
 - 📝 I regularly write articles on <a href="https://t.me/javascript_v1">Telegram Blog</a>
 
-- 💬 Ask me about **Node.js, javaScript, TypeScript, Nest.js**
+- 💬 Ask me about **JavaScript, Node.js, TypeScript, Nest.js, PostgreSQL, Redis**
 
-- 📫 How to reach me **yoqubjonovd2@gmail.com**
+- 📫 How to reach me **dilshodbekdevjob@gmail.com**
 
 - ⚡ Fun fact **Backend developers are like ninjas: you never see them, but without them, everything would fall apart! 🥷💻**
 
